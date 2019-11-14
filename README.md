@@ -1,4 +1,4 @@
-# VisPlugin
+# Cecutil
 created 2019 Nov. 14.
 
 DrChip's (Charles Campbell) Utilities for Vim  
